@@ -11,8 +11,8 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: 'Writerside/in'
-  ARTIFACT: 'webHelpIN2-all.zip'
+  INSTANCE: 'Writerside/docs'
+  ARTIFACT: 'webHelpDOCS2-all.zip'
   DOCKER_VERSION: '241.18775'
 
 jobs:

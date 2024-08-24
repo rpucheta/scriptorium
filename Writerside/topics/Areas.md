@@ -1,0 +1,3 @@
+# Áreas
+
+Start typing here...
