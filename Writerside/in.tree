@@ -8,7 +8,16 @@
 
     <toc-element topic="starter.md"/>
     <toc-element topic="Cursos.md">
-        <toc-element topic="IA-Despliegues.md"/>
+        <toc-element topic="IA-Despliegues.md">
+            <toc-element topic="APIs.md">
+                <toc-element topic="Métodos_HTTP.md"/>
+                <toc-element topic="Códigos-de-estado.md"/>
+                <toc-element topic="URL.md"/>
+                <toc-element topic="Ejercicios.md">
+                    <toc-element topic="ejercicio_metodos-http.md"/>
+                </toc-element>
+            </toc-element>
+        </toc-element>
     </toc-element>
     <toc-element topic="Areas.md">
         <toc-element topic="Ingenieria.md"/>
