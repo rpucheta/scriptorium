@@ -18,13 +18,13 @@ Familiarizarse con la estructura básica de una aplicación Flask y el uso del m
 ## Ejercicio 2: “Endpoint de Saludo Personalizado”
 
 ### 2- Enunciado:
-Expande la API para aceptar un nombre en la URL y devolver un saludo personalizado en el formato “Hola, <nombre>!”.
+Expande la API para aceptar un nombre en la URL y devolver un saludo personalizado en el formato "Hola, < nombre > !".
 
 ### 2- Objetivo:
 Entender cómo Flask maneja las rutas con parámetros dinámicos en la URL.
 
 ### 2- Criterios de Evaluación:
-- La API devuelve un saludo personalizado cuando se accede a la ruta /saludo/<nombre>.
+- La API devuelve un saludo personalizado cuando se accede a la ruta /saludo/< nombre >.
 - El nombre se integra correctamente en el mensaje de respuesta.
 - La aplicación responde correctamente en http://localhost:5000/saludo/<tu_nombre>.
 
