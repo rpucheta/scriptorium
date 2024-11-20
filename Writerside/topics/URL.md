@@ -62,7 +62,7 @@ con datos (por ejemplo, obtener, crear, actualizar o eliminar información).
 - Usa un prefijo de versión (/v1, /v2) en la URL, especialmente útil cuando la API evoluciona con cambios no compatibles hacia atrás.
 - Ejemplo: /v1/users vs. /v2/users para versiones diferentes de la API.
 
-### Ejemplo Práctico de Endpoints Correctamente Nombrados:
+## Ejemplo Práctico de Endpoints Correctamente Nombrados: {collapsible="true"}
 
 | Método | URL Endpoint                  | Descripción                                    |
 |--------|-------------------------------|------------------------------------------------|

@@ -16,6 +16,7 @@
                 <toc-element topic="Ejercicios.md">
                     <toc-element topic="ejercicio_metodos-http.md"/>
                     <toc-element topic="ejercicio-api-flask.md"/>
+                    <toc-element topic="Ejercicio-API-Tasks.md"/>
                 </toc-element>
             </toc-element>
         </toc-element>
