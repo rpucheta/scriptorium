@@ -126,7 +126,7 @@ else:
 - curl es ideal para pruebas rápidas desde terminal sin ninguna dependencia de software, puesto se encuentra en la gran mayoria de terminales preinstalled.
 - Python permite automatizar y manejar datos de manera más avanzada (programática) integrando la lógica en aplicaciones.
 
-## :hammer: Practica extendida:
+## Practica extendida:
 Para ampliar tus conocimientos, dejo una practica extendida, que recomiendo hacer y que será afianzara los conocimientos aprendidos hasta el momento:
 ### Ejercicios con curl:
 1- Obtener detalles de un Pokémon específico:
