@@ -194,7 +194,8 @@ Para ampliar tus conocimientos, dejo una practica extendida, que recomiendo hace
 8- Extraer información avanzada:
 : - Escribe un script que permita consultar el Pokémon con un ID específico, por ejemplo, el Pokémon con ID 25.
 : - Extrae información como el tipo (types) y las habilidades (abilities) en una estructura como esta:
-: ``` {
+: ``` 
+{
 "name": "pikachu",
 "types": ["electric"],
 "abilities": ["static", "lightning-rod"]
